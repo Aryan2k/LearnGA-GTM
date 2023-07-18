@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209049337319",
+    "project_id": "learnga-gtm",
+    "storage_bucket": "learnga-gtm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209049337319:android:8b0f9c08918a2fb6f21142",
+        "android_client_info": {
+          "package_name": "com.example.learngagtm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209049337319-lq93hcocjk6q67ctdobqolo03ldd167j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgS80pG13nlbNZVI4PVREFCOtnuih56-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209049337319-lq93hcocjk6q67ctdobqolo03ldd167j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
